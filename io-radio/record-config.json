@@ -1,13 +1,30 @@
 {
-    "version":1457968166,
-    "created":1457968166,
-    "device_number":0,
-	"center_frequency":178000000,
-	"samplerate":2048000,
-	"secondsofrecording":20,
-	"gain":20,
-	"freq_correction":1,
-	"recording_start":{"y":2016,"m":3,"d":15,"hh":0,"mm":0,"ss":0},
-	"recording_end":{"y":2016,"m":3,"d":31,"hh":0,"mm":0,"ss":0},
-	"comment":"prototpye status"
+    "gain_step": 1.0,
+    "comment": "prototpye status",
+    "gain_end": 48.0,
+    "gain_start": 1.0,
+    "recording_start": {
+        "ss": 0,
+        "d": 15,
+        "y": 2016,
+        "hh": 0,
+        "m": 3,
+        "mm": 0
+    },
+    "freq_correction": 1,
+    "center_frequency": 178000000,
+    "recording_end": {
+        "ss": 0,
+        "d": 31,
+        "y": 2016,
+        "hh": 0,
+        "m": 3,
+        "mm": 0
+    },
+    "version": 1457968166,
+    "device_number": 0,
+    "samplerate": 2048000,
+    "signal_threshold": 0.12,
+    "secondsofrecording": 40,
+    "created": 1457968166
 }
