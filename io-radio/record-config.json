@@ -1,31 +1,31 @@
 {
-    "gain_step": 1.0,
-    "signal_threshold": 0.12,
-    "recording_end": {
-        "minute": 10,
-        "second": 0,
-        "month": 4,
-        "year": 2016,
-        "hour": 18,
-        "day": 3
-    },
-    "comment": "prototpye status",
-    "created": 1459696632.0,
-    "device_number": 0,
+    "center_frequency": 178000000,
     "calibration_start": 1200,
+    "created": 1459699371.0,
     "secondsofrecording": 40,
-    "gain_end": 48.0,
     "version": 1457968166,
-    "recording_start": {
-        "minute": 0,
-        "second": 0,
-        "month": 4,
-        "year": 2016,
-        "hour": 18,
-        "day": 3
-    },
-    "center_frequency": 17800000,
-    "gain_start": 1.0,
+    "device_number": 0,
     "freq_correction": 1,
-    "samplerate": 2048000
+    "recording_start": {
+        "second": 0,
+        "minute": 25,
+        "year": 2016,
+        "month": 4,
+        "day": 3,
+        "hour": 18
+    },
+    "gain_end": 48.0,
+    "gain_start": 1.0,
+    "signal_threshold": 0.12,
+    "samplerate": 2048000,
+    "recording_end": {
+        "second": 0,
+        "minute": 35,
+        "year": 2016,
+        "month": 4,
+        "day": 3,
+        "hour": 18
+    },
+    "gain_step": 1.0,
+    "comment": "prototpye status"
 }
