@@ -1,18 +1,18 @@
 {
     "center_frequency": 178000000,
     "calibration_start": 1200,
-    "created": 1459699371.0,
+    "created": 1459699379.0,
     "secondsofrecording": 40,
     "version": 1457968166,
     "device_number": 0,
     "freq_correction": 1,
     "recording_start": {
         "second": 0,
-        "minute": 25,
+        "minute": 45,
         "year": 2016,
         "month": 4,
         "day": 3,
-        "hour": 18
+        "hour": 17
     },
     "gain_end": 48.0,
     "gain_start": 1.0,
@@ -20,11 +20,11 @@
     "samplerate": 2048000,
     "recording_end": {
         "second": 0,
-        "minute": 35,
+        "minute": 55,
         "year": 2016,
         "month": 4,
         "day": 3,
-        "hour": 18
+        "hour": 17
     },
     "gain_step": 1.0,
     "comment": "prototpye status"
