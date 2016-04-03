@@ -1,31 +1,31 @@
 {
-    "device_number": 0,
-    "created": 1457968167,
-    "recording_end": {
-        "year": 2016,
-        "hour": 1,
-        "month": 3,
-        "second": 0,
-        "minute": 0,
-        "day": 31
-    },
-    "signal_threshold": 0.12,
-    "secondsofrecording": 40,
-    "recording_start": {
-        "year": 2016,
-        "hour": 0,
-        "month": 3,
-        "second": 0,
-        "minute": 0,
-        "day": 31
-    },
-    "version": 1457968166,
-    "freq_correction": 1,
-    "center_frequency": 104300000,
     "gain_step": 1.0,
-    "gain_start": 1.0,
+    "signal_threshold": 0.12,
+    "recording_end": {
+        "minute": 10,
+        "second": 0,
+        "month": 4,
+        "year": 2016,
+        "hour": 18,
+        "day": 3
+    },
     "comment": "prototpye status",
-    "samplerate": 2048000,
+    "created": 1459696632.0,
+    "device_number": 0,
+    "calibration_start": 1200,
+    "secondsofrecording": 40,
     "gain_end": 48.0,
-    "calibration_start": 1200
+    "version": 1457968166,
+    "recording_start": {
+        "minute": 0,
+        "second": 0,
+        "month": 4,
+        "year": 2016,
+        "hour": 18,
+        "day": 3
+    },
+    "center_frequency": 17800000,
+    "gain_start": 1.0,
+    "freq_correction": 1,
+    "samplerate": 2048000
 }
