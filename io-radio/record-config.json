@@ -8,7 +8,7 @@
     "freq_correction": 1,
     "recording_start": {
         "second": 0,
-        "minute": 25,
+        "minute": 40,
         "year": 2016,
         "month": 4,
         "day": 3,
@@ -27,5 +27,5 @@
         "hour": 23
     },
     "gain_step": 1.0,
-    "comment": "prototpye status"
+    "comment": "prototpye status testing raspi3"
 }
